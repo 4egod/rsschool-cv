@@ -38,3 +38,36 @@
 
 - Protocols implementation
   - EtherNetIP, CIP, HART, Modbus RTU, Modbus ASCII, GE SNP, GE SRTP, ROC (FloBoss), Thermo AutoPILOT, Thermo AutoPILOT Pro, Elster, HyperFlow
+
+## Experience
+
+- JSC Uzneftegazinformatika (Jun 2011-present, Full time)
+  - Position: Head of advanced researches and software development dept.
+  - Task: Implementation of automated gas metering system FlowLink (flowlink.uz)
+
+- JSC NAC Kazatomprom (May 2013-Jun 2015, Part time)
+  - Position: Team lead/Senior Software Engineer APCS
+  - Task: Development and implementation of automation systems situ leaching of uranium
+
+- JSC Uzneftegazinformatika (Jun 2007-Jun 2011, Full time)
+  - Position: Control & Instrumentation engineer / Team lead / Senior Software Engineer APCS
+
+- Akadempressa, LLC (May 2007-Sep 2007, Part time)
+  - Position: Full stack developer.
+
+- National University of Uzbekistan (Sep 2004-Sep 2006, Part time)
+  - Position: System administrator.
+
+## Education
+
+- Young Developers Training and Support Centre, Tashkent (Nov 2005-Feb 2006)
+  - Visual C++ basics, C# basics, Windows Application Development, Web Application Development (Certificate)
+
+- National University of Uzbekistan, Tashkent (Sep 2003-Jun 2007)
+  - Computer Science, Applied mathematics and informatics speciality (Bachelor`s Diploma)
+
+## Languages
+
+- Russian (Native)
+
+- English (B2)
