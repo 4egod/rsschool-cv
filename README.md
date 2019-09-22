@@ -1,1 +1,1 @@
-# rsschool-cv
+# <https://4egod.github.io/rsschool-cv/cv>
