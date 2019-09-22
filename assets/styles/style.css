@@ -40,6 +40,10 @@ body {
   text-transform: uppercase;
 }
 
+.person-objective, .person-summary, .person-skills, .person-experience {
+  text-align: justify;
+}
+
 @media (max-width: 850px) {
   .summary {
     display: flex;
